@@ -1,0 +1,1 @@
+Collection of projects to learn ML. I am using the book _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_ from _Aurelien Géron_.
