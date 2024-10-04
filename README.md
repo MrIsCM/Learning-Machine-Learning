@@ -1,4 +1,4 @@
-# Learning Machine Learning
+# Learnign Machine Learning
 
 ## Description
 
