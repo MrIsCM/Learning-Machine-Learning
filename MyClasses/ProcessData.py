@@ -15,6 +15,9 @@ class ProcessData:
 			one_hot[i, class_] = 1
 		return one_hot
 	
+	def one_hot_decoder(self, y):
+		return np.argmax(y, axis=1)
+	
 	def split_data(self, X, y, test_ratio=0.2, val_ratio=0.2, random_state=None):
 		# Set random seed
 		if random_state:
