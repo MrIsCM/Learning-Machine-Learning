@@ -14,6 +14,9 @@ Each notebook is a chapter from the book (except for the first one). The noteboo
 - [Chapter 5: Support Vector Machines](Notebooks/05_support_vector_machines.ipynb)
 - [Chapter 6: Decision Trees](Notebooks/06_decision_trees.ipynb)
 - [Chapter 7: Ensemble Learning and Random Forests](Notebooks/07_ensemble_learning_and_random_forests.ipynb)
+- [Chapter 8: Dimensionality Reduction](Notebooks/08_dimensionality_reduction.ipynb)
+- [Chapter 9: Unsupervised Learning Techniques](Notebooks/09_unsupervised_learning_techniques.ipynb)
+
 
 ## Exercises
 
