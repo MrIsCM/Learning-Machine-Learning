@@ -1,0 +1,5 @@
+# ignore mnist.mmap
+my_mnist.mmap
+
+# Images
+*.png
