@@ -3,3 +3,6 @@ my_mnist.mmap
 
 # Images
 *.png
+
+# Data folder, may contain large files
+Notebooks/Data/
