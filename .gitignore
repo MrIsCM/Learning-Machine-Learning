@@ -6,3 +6,6 @@ my_mnist.mmap
 
 # Data folder, may contain large files
 Notebooks/Data/
+
+# Ignore saved keras models, they contain 'keras_model' in the name
+*keras_model*
